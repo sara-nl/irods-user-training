@@ -399,7 +399,7 @@ imeta ls -C mysecrets
 
 With `imeta ls` you can retrieve the AVUs when given a file or collection name. In the next Section we will see how we can retrieve the file and folder names when given an attribute or value.
 
-### Exercise: Create Metadata (15min)
+### Exercise: Create Metadata (10min)
 1. Create the author Bob for the file test.txt
 2. Inspect the list of AVUs
 3. Add a new triple 'distance' '36' 'miles' 
@@ -480,7 +480,7 @@ What does the team have to do to make you and only you see the metadata?
 -->
 
 
-## Exercise: Finding Easter (15 min)
+## Exercise: Finding Easter (10 min)
 - In the system there are some clues under the attribute 'GAME'. Gather the clues and download the correct file. 
 
 
