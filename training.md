@@ -31,13 +31,14 @@ Try to login to iRODS with the icommand:
 iinit
 -bash: iinit: command not found
 ```
+-->
 
-Lisa does not know these commands by default. We need to load them:
+Load the iRODS client: 
 
 ```sh
 module load icommands
 ```
--->
+
 
 and login to iRODS:
 
